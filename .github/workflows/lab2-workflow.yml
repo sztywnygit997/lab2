@@ -23,4 +23,3 @@ jobs:
     steps:
       - name: Printing Custom Message
         run: echo ${{inputs.custom_message}}
-        
